@@ -1,0 +1,145 @@
+*{
+    /*outline: 1px solid black;*/
+    margin: 0px;
+    padding: 0px;
+
+}
+#top{
+    background-color: lightgray;
+    padding: 10px;
+}
+#container{
+    width: 880px;
+    height: 900px;
+    margin: 0px auto;
+}
+
+#picture{
+    width: 375px;
+    height: 262px;
+    display: inline-block;
+    border: 8px solid lightgray;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+#mainContent{
+    background: linear-gradient(to right, #1D0D11, #6f5964, #1D0D11);
+    padding: 20px;
+}
+
+#about{
+    display: inline-block;
+    width: 420px;
+    height: 235px;
+}
+#name{
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+.titles{
+    background: linear-gradient(180deg, darkgrey, grey, darkgrey);
+    color: white;
+    padding: 5px;
+}
+
+#name, #topRight{
+    display:inline-block;
+    width:410px;
+}
+
+
+#aboutContent{
+    background-image: linear-gradient(to right, white, lightgray);
+    height: 235px;
+    padding: 8px;
+    vertical-align: top;
+}
+
+.proImg{
+    width: 270px;
+    height: 150px;
+}
+
+.projects{
+    display: inline-block;
+    width: 270px;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.proContent{
+    background-image: linear-gradient(to right, white, lightgray);
+    height: 180px;
+    margin-top: -5px;
+    padding: 5px;
+}
+#family{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.techlist{
+    background-image: linear-gradient(to right, white, lightgray);
+}
+
+li img{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin: 5px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+}
+
+.button{
+    background-image: linear-gradient(to right, white, lightgray);
+    text-align: center;
+    padding: 10px;
+}
+
+.button a{
+    margin: 10px;
+    background-color: darkgreen;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px rgba(0,0,0,0.6);
+}
+
+#footer{
+    text-align: center;
+}
+
+#footer img{
+    height: 20px;
+    width: 20px;
+    vertical-align: bottom;
+    margin: 0;
+}
+
+#footer li{
+    padding-bottom: 10px;
+}
+
+#footer a{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
